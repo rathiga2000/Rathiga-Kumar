@@ -1,0 +1,45 @@
+h1{
+ background-color: #6d656e;
+ border-radius: 5px;
+ color: white;
+ border: 3px double; black;
+}
+
+h4{
+font-family: 'Caveat', cursive;
+background-color: #c1b6c2;
+}
+
+a{text-decoration:none;}
+a:hover {color:white;background-color:blue;text-decoration:none;}
+a:active {color:white;background-color:black; text-decoration:none;}
+
+.container{
+    border-radius: 5px;
+    background-color:#f2f2f2;
+    padding: 20px;
+ border: 3px outset; black;
+}
+.container-1{
+    border-radius: 5px;
+    background-color:#d8d0d9;
+    padding: 20px;
+ border: 3px outset; black;
+}
+
+img{
+ /* it works border: 3px outset; black;  */
+    padding: 12px 12px 12px 12px;
+    border-radius: 5px;
+}
+
+.col-1
+{
+float:left; 
+margin-left:10px; 
+width:50%; 
+
+}
+th {border: 2px solid #6d656e;background-color:#c1b6c2}
+td {border: 1px solid black;}
+tr:hover {background-color: white;}
